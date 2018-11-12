@@ -1,0 +1,11 @@
+BMP_180:
+    black: VIN --> 5v
+    white: Gnd --> Gnd
+    yellow: SCL --> A5
+    orange: SDA --> A4
+
+DHT_11:
+    red: DC --> 3.3V
+    blue: U1 --> A2
+    blank spot
+    white: Gnd --> Gnd
